@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SerhiiSkachkov/webby/static/css/main.04346068.chunk.css",
+    "main.js": "/SerhiiSkachkov/webby/static/js/main.059df308.chunk.js",
+    "main.js.map": "/SerhiiSkachkov/webby/static/js/main.059df308.chunk.js.map",
+    "runtime-main.js": "/SerhiiSkachkov/webby/static/js/runtime-main.9ce2a804.js",
+    "runtime-main.js.map": "/SerhiiSkachkov/webby/static/js/runtime-main.9ce2a804.js.map",
+    "static/js/2.1411621b.chunk.js": "/SerhiiSkachkov/webby/static/js/2.1411621b.chunk.js",
+    "static/js/2.1411621b.chunk.js.map": "/SerhiiSkachkov/webby/static/js/2.1411621b.chunk.js.map",
+    "index.html": "/SerhiiSkachkov/webby/index.html",
+    "precache-manifest.7f25b09e1d49b6d69fc96f5a2efa7893.js": "/SerhiiSkachkov/webby/precache-manifest.7f25b09e1d49b6d69fc96f5a2efa7893.js",
+    "service-worker.js": "/SerhiiSkachkov/webby/service-worker.js",
+    "static/css/main.04346068.chunk.css.map": "/SerhiiSkachkov/webby/static/css/main.04346068.chunk.css.map",
+    "static/js/2.1411621b.chunk.js.LICENSE.txt": "/SerhiiSkachkov/webby/static/js/2.1411621b.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/SerhiiSkachkov/webby/static/media/Robotothin.a11d03f7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce2a804.js",
+    "static/js/2.1411621b.chunk.js",
+    "static/css/main.04346068.chunk.css",
+    "static/js/main.059df308.chunk.js"
+  ]
+}
