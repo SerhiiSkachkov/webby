@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SerhiiSkachkov.github.io/webby/static/css/main.8e675f4c.chunk.css",
-    "main.js": "/SerhiiSkachkov.github.io/webby/static/js/main.059df308.chunk.js",
-    "main.js.map": "/SerhiiSkachkov.github.io/webby/static/js/main.059df308.chunk.js.map",
-    "runtime-main.js": "/SerhiiSkachkov.github.io/webby/static/js/runtime-main.a6570f64.js",
-    "runtime-main.js.map": "/SerhiiSkachkov.github.io/webby/static/js/runtime-main.a6570f64.js.map",
-    "static/js/2.1411621b.chunk.js": "/SerhiiSkachkov.github.io/webby/static/js/2.1411621b.chunk.js",
-    "static/js/2.1411621b.chunk.js.map": "/SerhiiSkachkov.github.io/webby/static/js/2.1411621b.chunk.js.map",
-    "index.html": "/SerhiiSkachkov.github.io/webby/index.html",
-    "precache-manifest.957b87f8b8a285d50ba86654b959c835.js": "/SerhiiSkachkov.github.io/webby/precache-manifest.957b87f8b8a285d50ba86654b959c835.js",
-    "service-worker.js": "/SerhiiSkachkov.github.io/webby/service-worker.js",
-    "static/css/main.8e675f4c.chunk.css.map": "/SerhiiSkachkov.github.io/webby/static/css/main.8e675f4c.chunk.css.map",
-    "static/js/2.1411621b.chunk.js.LICENSE.txt": "/SerhiiSkachkov.github.io/webby/static/js/2.1411621b.chunk.js.LICENSE.txt",
-    "static/media/index.sass": "/SerhiiSkachkov.github.io/webby/static/media/Robotothin.a11d03f7.woff"
+    "main.css": "/SerhiiSkachkov.github.io/web/static/css/main.2a9154db.chunk.css",
+    "main.js": "/SerhiiSkachkov.github.io/web/static/js/main.059df308.chunk.js",
+    "main.js.map": "/SerhiiSkachkov.github.io/web/static/js/main.059df308.chunk.js.map",
+    "runtime-main.js": "/SerhiiSkachkov.github.io/web/static/js/runtime-main.35beae26.js",
+    "runtime-main.js.map": "/SerhiiSkachkov.github.io/web/static/js/runtime-main.35beae26.js.map",
+    "static/js/2.1411621b.chunk.js": "/SerhiiSkachkov.github.io/web/static/js/2.1411621b.chunk.js",
+    "static/js/2.1411621b.chunk.js.map": "/SerhiiSkachkov.github.io/web/static/js/2.1411621b.chunk.js.map",
+    "index.html": "/SerhiiSkachkov.github.io/web/index.html",
+    "precache-manifest.0c4934c7a61f978d01120c82b04ae9bb.js": "/SerhiiSkachkov.github.io/web/precache-manifest.0c4934c7a61f978d01120c82b04ae9bb.js",
+    "service-worker.js": "/SerhiiSkachkov.github.io/web/service-worker.js",
+    "static/css/main.2a9154db.chunk.css.map": "/SerhiiSkachkov.github.io/web/static/css/main.2a9154db.chunk.css.map",
+    "static/js/2.1411621b.chunk.js.LICENSE.txt": "/SerhiiSkachkov.github.io/web/static/js/2.1411621b.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/SerhiiSkachkov.github.io/web/static/media/Robotothin.a11d03f7.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6570f64.js",
+    "static/js/runtime-main.35beae26.js",
     "static/js/2.1411621b.chunk.js",
-    "static/css/main.8e675f4c.chunk.css",
+    "static/css/main.2a9154db.chunk.css",
     "static/js/main.059df308.chunk.js"
   ]
 }
